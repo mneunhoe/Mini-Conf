@@ -28,8 +28,8 @@ default_poster_pdf: /static/images/GLTR_poster.pdf
 #pass: mIniconf1_
 
 use_auth0:
-auth0_client_id : JIdr6wi0z27LyLgwkJF0fpk700aj7MNH
-auth0_domain : miniconf.auth0.com
+auth0_client_id : L13lZ8ZrMnirHH0R2xzUQiJ6O2p2UtbC
+auth0_domain : polmeth-europe.auth0.com
 
 calendar:
   colors: #  Colors for the different event hashtags:
