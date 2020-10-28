@@ -24,8 +24,8 @@ default_poster_pdf: /static/images/GLTR_poster.pdf
 
 # Configuration for auth
 #Test user
-#user: miniconf@miniconf.com
-#pass: mIniconf1_
+user: miniconf@miniconf.com
+pass: mIniconf1_
 
 use_auth0:
 auth0_client_id : L13lZ8ZrMnirHH0R2xzUQiJ6O2p2UtbC
